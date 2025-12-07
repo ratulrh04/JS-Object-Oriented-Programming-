@@ -10,8 +10,6 @@ function BangkAccount (customarName, balance=0){
                   };               
 
 }
-
-
 // Property Access practise:-
 
 // const shuvoAccount = new BangkAccount('Shuvo Raha', 10000);
@@ -24,8 +22,7 @@ function BangkAccount (customarName, balance=0){
 
 // Property Access practise:-
 
-
-// Dom Manupulation
+// Dom Manupulation:-
 const accounts = []
 const accountForm = document.querySelector('#accountForm')
 const customarName  = document.querySelector('#customarName')
