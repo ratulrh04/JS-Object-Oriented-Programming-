@@ -3,8 +3,8 @@ function BankAccount (customarName, balance=0){
     this.accountNumber = Date.now();
     this.balance = balance;
    
-   //  this.withdraw = function(amount){
-   //                   this.balance -= amount
+   //  this.withdraw = function(amount){          //এই ক্লাসের ভিতরে আমি এতটুকুই শিখলাম যে কোন ফ্যাক্টরি প্যাটার্ন বা ক্লাসের ভিতরে মেথডগুলো 
+   //                   this.balance -= amount    //ডিরেক্ট না লিখে তার প্রোটাপের ভিতরে ঢুকিয়ে দিলে ভালো হয় |
    //                }; 
    //  this.diposit = function(amount){
    //                   this.balance += amount
