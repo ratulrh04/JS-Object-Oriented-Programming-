@@ -1,5 +1,5 @@
 class bankAccount {
-    // customarName;
+    // customarName;    //no need to write like those line of property 
     // accountNumber;
     // balance;
 
